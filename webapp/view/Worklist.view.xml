@@ -17,6 +17,7 @@
 			<Table
 				id="table"
 				width="auto"
+				visible="true"
 				items="{
 					path: '/ProductSet',
 					sorter: {
